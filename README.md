@@ -1,5 +1,5 @@
 # USBlyzer-Licence-fix
-Fix for USBlyzer which licence cannot be buyed
+Fix for USBlyzer licence which cannot be buyed (http://www.usblyzer.com/purchase.htm?ref=USBlyzer&src=rd&ver=2.1)
 
 PowerShell command to run:  
 ``` PowerShell
