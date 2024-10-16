@@ -1,3 +1,6 @@
+# Website
+[Wayback Machine](https://web.archive.org/web/20220402234244/http://www.usblyzer.com/download.htm)
+
 # USBlyzer-Licence-fix
 Fix for USBlyzer licence which cannot be buyed (http://www.usblyzer.com/purchase.htm?ref=USBlyzer&src=rd&ver=2.1)
 
